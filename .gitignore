@@ -1,0 +1,12 @@
+# Data (too large for GitHub)
+*.csv
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
